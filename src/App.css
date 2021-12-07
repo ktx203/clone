@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  background-color: lightgray;
 }
 
 .app {
@@ -8,8 +9,8 @@
 
 .app_header {
   object-fit: contain;
-  background-color:#f6f6f6;
-  padding-bottom: 0px;
+  background-color:#ffffff;
+  padding-bottom: 4px;
   padding-top: 10px;
   padding-left: 10px;
   border-bottom: 1px solid lightgray;

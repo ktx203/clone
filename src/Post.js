@@ -8,7 +8,7 @@ function Post({username,caption,imageUrl}) {
         <div className="post_header">
             <h3>{username}</h3>
         </div>
-            {/* header -> avatar + username */}
+
 
             <img className="post_image" src={imageUrl}></img>
         
