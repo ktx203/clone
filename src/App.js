@@ -4,7 +4,7 @@ import Post from './Post';
 import React, { useState } from 'react';
 
 function App() {
-  const [posts, setPosts] = useState([
+  const [posts] = useState([
     {
     username: "kamp", 
     caption: " cruel and unusual", 
