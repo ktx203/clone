@@ -23,7 +23,7 @@ function App() {
   // {
   //   username: "kamp", 
   //   caption:  " the galaxy in janaki", 
-  //   imageUrl: "https://i.imgur.com/j4pjw7s.jpgg"
+  //   imageUrl: "https://i.imgur.com/j4pjw7s.jpg"
   // },
   {
     username: "kamp", 
