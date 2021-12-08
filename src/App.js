@@ -7,7 +7,7 @@ function App() {
   const [posts] = useState([
     {
     username: "kamp", 
-    caption: " cruel and unusual", 
+    caption:  " cruel and unusual", 
     imageUrl: "https://i.imgur.com/5DoNdyE.jpg"
   },
   {
@@ -17,14 +17,14 @@ function App() {
   },
   {
     username: "lilyvang",
-    caption: " im so pretty", 
+    caption:  " im so pretty", 
     imageUrl: "https://i.imgur.com/QmgvNX5.gif"
   },
-  {
-    username: "kamp", 
-    caption: " the galaxy in janaki", 
-    imageUrl: "https://i.imgur.com/j4pjw7s.jpgg"
-  },
+  // {
+  //   username: "kamp", 
+  //   caption:  " the galaxy in janaki", 
+  //   imageUrl: "https://i.imgur.com/j4pjw7s.jpgg"
+  // },
   {
     username: "kamp", 
     caption: " andromeda and the sea monster", 

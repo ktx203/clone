@@ -16,8 +16,7 @@
 .post_image {
     width: 100%;
     object-fit: contain;
-    /* border-top: 0px solid lightgray; */
-    margin: 0 auto; 
+    border-top: 0px solid lightgray;
 }
 
 .post_text {
