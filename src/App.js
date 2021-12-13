@@ -20,11 +20,11 @@ function App() {
     caption:  " im so pretty", 
     imageUrl: "https://i.imgur.com/QmgvNX5.gif"
   },
-  // {
-  //   username: "kamp", 
-  //   caption:  " the galaxy in janaki", 
-  //   imageUrl: "https://i.imgur.com/j4pjw7s.jpg"
-  // },
+  {
+    username: "kamp", 
+    caption:  " the galaxy in janaki", 
+    imageUrl: "https://i.imgur.com/j4pjw7s.jpg"
+  },
   {
     username: "kamp", 
     caption: " andromeda and the sea monster", 
